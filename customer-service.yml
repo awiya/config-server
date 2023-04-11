@@ -1,0 +1,5 @@
+customer:
+  params:
+    x: '33'
+    y: '44'
+
